@@ -7,3 +7,10 @@ INSTALLATION:
 -->pip install numpy 
 -->pip install os 
 -->pip install keras
+
+CONTRIBUTORS:
+https://github.com/Aaradhana11
+https://github.com/abhi5282
+https://github.com/yogesh-16
+https://github.com/Rahul3git
+http://github.com/sonali6062
